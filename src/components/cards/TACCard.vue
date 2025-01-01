@@ -8,14 +8,9 @@
           subtitle="The #1 Vue UI Library"
         >
           <template #title>
-            <span class="font-bold">Welcome to Vuetify</span>
+            <span class="font-bold">Front.</span>
           </template>
-          <v-card-text class="h-32 bg-sky-200 pt-4">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi,
-            ratione debitis quis est labore voluptatibus! Eaque cupiditate
-            minima, at placeat totam, magni doloremque veniam neque porro libero
-            rerum unde voluptatem!
-          </v-card-text>
+          <v-card-text class="h-32 bg-sky-200 pt-4"> Flip Card. </v-card-text>
         </v-card>
       </div>
       <div :class="$style['flip-card-back']">
